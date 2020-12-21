@@ -5,21 +5,21 @@
 <head>
 <meta charset="UTF-8">
 <title> myOrder.jsp </title>
-			<script src="/novusShopping/resources/assets/js/jquery.min.js"></script>
-			<script src="/novusShopping/resources/assets/js/jquery.poptrox.min.js"></script>
-			<script src="/novusShopping/resources/assets/js/skel.min.js"></script>
-			<script src="/novusShopping/resources/assets/js/main.js"></script>
+<script src="/novusShopping/resources/assets/js/jquery.min.js"></script>
+<script src="/novusShopping/resources/assets/js/jquery.poptrox.min.js"></script>
+<script src="/novusShopping/resources/assets/js/skel.min.js"></script>
+<script src="/novusShopping/resources/assets/js/main.js"></script>
 <link rel="stylesheet" href="/novusShopping/resources/assets/css/main.css" />
 </head>
 <body>
-<img src="/novusShopping/resources/my.png" />
 <div id="wrapper">
 
 				<!-- Header -->
 					<header id="header">
-						<span class="avatar"><img src="/novusShopping/resources/images/avatar.jpg" alt="" /></span>
-						<h1>This is <strong>Visualize</strong>, a responsive site template designed by <a href="http://templated.co">TEMPLATED</a><br />
-						and released for free under the Creative Commons License.</h1>
+						<!-- 원형 이미지 -->
+						<span class="avatar"><img src="/novusShopping/resources/applewatch.jpg" alt="" /></span>
+						<h1><strong>" 여기는 현재 주문내역 페이지입니다. "</strong><br/>
+						for your speciality</h1>
 						<ul class="icons">
 							<li><a href="#" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
 							<li><a href="#" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
