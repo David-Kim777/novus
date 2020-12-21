@@ -7,6 +7,28 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<h4> 안녕하세요. 우리 홈페이지입니다.<p>
+ 사이트에 접속하기 위해서 사용자 인증 절차가 필요합니다.<p>
+아이디와 패스워드를 입력하세요.</h4>
+<form name="form" action="/mem/member/memLogin.nv" method="post">
+  <table width="300" height="120" >
+    <tr> 
+      <td width="100"> 아이디</td>
+      <td ><input type="text" name="userId"></td>
+    </tr>
+    
+	<tr> <td>  패스워드</td>
+      <td> <input type="password" name="userPass"></td>
+    </tr>
+  <tr>
+  <td colspan=2>
+    <input type="button" name="Submit" id="Submit" value="로그인">
+    <input type="button"  value="회원가입" onclick="location.href='userJoin.do'">
+    <input type="reset" value="취소">
+	
+</td>
+ </tr>
+  </table>
+  </form>
 </body>
 </html>

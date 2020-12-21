@@ -10,5 +10,8 @@
 <body>
 <a href='mem/myOrder/myOrder.nv'>메인페이지에서 주문내역 페이지로 이동</a>
 <img src="resources/my.png" /><img src="resources/my.png" /><img src="resources/my.png" />
+
+<a href='mem/member/memLogin.nv'>로그인화면</a>
+되는거 확인함!!!!!!! 용관님 만세!
 </body>
 </html>
