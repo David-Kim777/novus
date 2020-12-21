@@ -12,6 +12,6 @@
 <img src="resources/my.png" /><img src="resources/my.png" /><img src="resources/my.png" />
 
 <a href='mem/member/memLogin.nv'>로그인화면</a>
-되는거 확인함!!!!!!! 용관님 만세!
+
 </body>
 </html>
